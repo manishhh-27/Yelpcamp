@@ -1,2 +1,2 @@
-# Yelpcamp (https://tasty-fatigues-cow.cyclic.app/)
+# [Yelpcamp](https://tasty-fatigues-cow.cyclic.app/)
 
